@@ -1,4 +1,4 @@
-# Data Quality in LLMs
+# DCML in LLMs
 A list of papers about data quality in Large Language Models (LLMs)
 
 ## Contents
@@ -127,6 +127,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 - A Survey on Evaluation of Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2307.03109)
 
 ## Useful Resources
+- Data Management for LLM [[Repo]](https://github.com/ZigeW/data_management_LLM)
 - Practical guides for LLM [[Repo]](https://github.com/Mooler0410/LLMsPracticalGuide#practical-guide-for-data)
 - Introduction to LLM [[Repo]](https://github.com/datainsightat/introduction_llm?search=1)
 - Survey of LLM [[Repo]](https://github.com/RUCAIBox/LLMSurvey)
