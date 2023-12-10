@@ -5,7 +5,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 - [Pretraining](#pretraining)
 
-  - [Scaling Laws](#data-quantity-1)
+  - [Scaling Laws](#scaling-laws-1)
   - [Data Quality Evaluation](#data-quality-1)
   - [Data Quality Improvement](#domain-composition)
   - [Data Management System](#data-management-systems)
@@ -66,7 +66,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 - #### Curriculum Learning
 
-  - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.00678.pdf)
+  - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
 
 ### Data Management Systems
 
@@ -110,8 +110,8 @@ A list of papers about data quality in Large Language Models (LLMs)
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
   
 - #### Curriculum Learning
-- The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.00678.pdf)
-- 
+  - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
+  
 - #### Prompt Design
   - Reframing instructional prompts to gptk’s language (ACL Findings, 2022) [[Paper]](https://arxiv.org/abs/2109.07830v3) [[Code]](https://github.com/allenai/reframing)
   - Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts (NAACL, 2022) [[Paper]](https://arxiv.org/abs/2112.08348) [[Code]](https://github.com/alrope123/prompt-waywardness)
@@ -132,9 +132,9 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 ## Survey
 - Data Management For Large Language Models: A Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.01700)
-- The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.00678.pdf)
-- Efficient Large Language Models: A Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.03863.pdf)
-- A Survey on Evaluation of Large Language Models (Arxiv, Oct. 2023)(https://arxiv.org/abs/2307.03109)
+- The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
+- Efficient Large Language Models: A Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.03863.pdf)
+- A Survey on Evaluation of Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2307.03109)
 
 ## Useful Resources
 - Practical guides for LLM [[Repo]](https://github.com/Mooler0410/LLMsPracticalGuide#practical-guide-for-data)
