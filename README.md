@@ -34,8 +34,6 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 ### Data Quality Evaluation
 
-- Scaling Laws for Neural Language Models (Arxiv, Jan. 2020) [[Paper]](https://arxiv.org/abs/2001.08361)
-
 ### Data Quality Improvement
 
 - #### Data Deduplication
@@ -46,7 +44,7 @@ A list of papers about data quality in Large Language Models (LLMs)
   - SemDeDup: Data-efficient learning at web-scale through semantic deduplication (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/pdf/2303.09540.pdf) [[Code]](https://github.com/facebookresearch/SemDeDup)
   - The MiniPile Challenge for Data-Efficient Language Models (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.08442) [[Dataset]](https://huggingface.co/datasets/JeanKaddour/minipile)
 
-- #### Data Filtering
+- #### Data Selection
 
   - An Empirical Exploration in Quality Filtering of Text Data (Arxiv, Sep. 2021) [[Paper]](https://arxiv.org/abs/2109.00698) 
   - Quality at a glance: An audit of web-crawled multilingual datasets (ACL 2022) [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled) 
@@ -68,13 +66,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 - #### Curriculum Learning
 
-  - Documenting large webtext corpora: A case study on the Colossal Clean Crawled Corpus (EMNLP 2021) [[Paper]](https://arxiv.org/abs/2104.08758) 
-
-  - An empirical survey of the effectiveness of debiasing techniques for pre-trained language models (ACL, 2022) [[Paper]](https://arxiv.org/abs/2110.08527) [[Code]](https://github.com/McGill-NLP/bias-bench)
-
-  - Whose language counts as high quality? Measuring language ideologies in text data selection (EMNLP, 2022) [[Paper]](https://arxiv.org/abs/2201.10474) [[Code]](https://github.com/kernelmachine/quality-filter)
-
-  - From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models (ACL 2023) [[Paper]](https://arxiv.org/abs/2305.08283) [[Code]](https://github.com/BunsenFeng/PoliLean)
+  - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.00678.pdf)
 
 ### Data Management Systems
 
@@ -118,7 +110,8 @@ A list of papers about data quality in Large Language Models (LLMs)
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
   
 - #### Curriculum Learning
-
+- The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.00678.pdf)
+- 
 - #### Prompt Design
   - Reframing instructional prompts to gptk’s language (ACL Findings, 2022) [[Paper]](https://arxiv.org/abs/2109.07830v3) [[Code]](https://github.com/allenai/reframing)
   - Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts (NAACL, 2022) [[Paper]](https://arxiv.org/abs/2112.08348) [[Code]](https://github.com/alrope123/prompt-waywardness)
