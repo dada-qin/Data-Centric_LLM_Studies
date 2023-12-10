@@ -45,8 +45,7 @@ A list of papers about data quality in Large Language Models (LLMs)
   - SemDeDup: Data-efficient learning at web-scale through semantic deduplication (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/pdf/2303.09540.pdf) [[Code]](https://github.com/facebookresearch/SemDeDup)
   - The MiniPile Challenge for Data-Efficient Language Models (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.08442) [[Dataset]](https://huggingface.co/datasets/JeanKaddour/minipile)
 
-- #### Data Selection
-
+- #### Data Filter
   - An Empirical Exploration in Quality Filtering of Text Data (Arxiv, Sep. 2021) [[Paper]](https://arxiv.org/abs/2109.00698) 
   - Quality at a glance: An audit of web-crawled multilingual datasets (ACL 2022) [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled) 
   - A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13169)
@@ -56,14 +55,13 @@ A list of papers about data quality in Large Language Models (LLMs)
   - When less is more: Investigating Data Pruning for Pretraining LLMs at Scale (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.04564) 
 
 - #### Data Composition
-
-  - Lamda: Language models for dialog applications (Arxiv, Jan. 2022) [[Paper]](https://arxiv.org/abs/2201.08239) [[Code]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
   - Data Selection for Language Models via Importance Resampling (Arxiv, Feb. 2023) [[Paper]](https://arxiv.org/pdf/2302.03169.pdf) [[Code]](https://github.com/p-lambda/dsir)
   - CodeGen2: Lessons for Training LLMs on Programming and Natural Languages (ICLR 2023) [[Paper]](https://arxiv.org/abs/2305.02309) [[Model]](https://github.com/salesforce/CodeGen2)
   - DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.10429) [[Code]](https://github.com/sangmichaelxie/doremi)
   - A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13169)
   - SlimPajama-DC: Understanding Data Combinations for LLM Training (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.10818) [[Model]](https://huggingface.co/MBZUAI-LLM) [[Dataset]](https://huggingface.co/datasets/cerebras/SlimPajama-627B)
-  - DoGE: Domain Reweighting with Generalization Estimation (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.15393) 
+  - DoGE: Domain Reweighting with Generalization Estimation (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.15393)
+  - Self-Influence Guided Data Reweighting for Language Model Pre-training (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/pdf/2311.00913.pdf)
 
 - #### Curriculum Learning
 
@@ -99,15 +97,6 @@ A list of papers about data quality in Large Language Models (LLMs)
   - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
 
 - #### Data Composition
-  - Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ Tasks (EMNLP 2022) [[Paper]](https://arxiv.org/abs/2204.07705) [[Dataset]](https://github.com/allenai/natural-instructions)
-  - Finetuned Language Models Are Zero-Shot Learners (ICLR 2022) [[Paper]](https://arxiv.org/abs/2109.01652) [[Dataset]](https://github.com/google-research/FLAN)
-  - Multitask Prompted Training Enables Zero-Shot Task Generalization (ICLR 2022) [[Paper]](https://arxiv.org/abs/2110.08207) [[Code]](https://github.com/bigscience-workshop/t-zero)
-  - Scaling Instruction-Finetuned Language Models (Arxiv, Oct. 2022) [[Paper]](https://arxiv.org/abs/2210.11416) [[Dataset]](https://github.com/google-research/FLAN)
-  - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization (Arxiv, Dec. 2022)  [[Paper]](https://arxiv.org/abs/2212.12017) [[Model]](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
-  - The Flan Collection: Designing Data and Methods for Effective Instruction Tuning (ICML, 2023) [[Paper]](https://arxiv.org/abs/2301.13688) [[Dataset]](https://github.com/google-research/FLAN)
-  - Exploring the Benefits of Training Expert Language Models over Instruction Tuning (ICML, 2023) [[Paper]](https://arxiv.org/abs/2302.03202) [[Code]](https://github.com/joeljang/ELM)
-  - Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.09246) 
-  - How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04751) [[Code]](https://github.com/allenai/open-instruct)
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
   
 - #### Curriculum Learning
