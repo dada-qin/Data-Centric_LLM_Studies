@@ -33,6 +33,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 - Scaling Data-Constrained Language Models (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.16264) [[Code]](https://github.com/huggingface/datablations)
 
 ### Data Quality Evaluation
+- A Survey on Evaluation of Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2307.03109)
 
 ### Data Quality Improvement
 
