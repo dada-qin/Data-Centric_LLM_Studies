@@ -68,7 +68,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
 
-### Data Management Systems
+### Data Management System
 
 - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
 - Oasis: Data Curation and Assessment System for Pretraining of Large Language Models (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.12537) [[Code]](https://github.com/tongzhou21/oasis)
