@@ -17,7 +17,8 @@ A list of papers about data quality in Large Language Models (LLMs)
   - [Data Quality Improvement](#task-composition)
   - [Data Management System](#data-efficient-learning)
 
-- [Related Survey](#useful-resources)
+- [Survey](#survey)
+- [Useful Resources](#useful-resources)
 
 ## Pretraining
 
@@ -93,7 +94,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 ### Data Quality Evaluation
 - INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04757) [[Code]](https://github.com/declare-lab/instruct-eval)
-- 
+  
 ### Data Quality Improvement
 
 - #### Data Generation
@@ -137,8 +138,13 @@ A list of papers about data quality in Large Language Models (LLMs)
 
   - LoBaSS: Gauging Learnability in Supervised Fine-tuning Data (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13008.pdf) 
 
-## Related Survey
+## Survey
+- Data Management For Large Language Models: A Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.01700)
+- The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.00678.pdf)
+- Efficient Large Language Models: A Survey (Arxiv, Dec. 2023)(https://arxiv.org/pdf/2312.03863.pdf)
+- A Survey on Evaluation of Large Language Models (Arxiv, Oct. 2023)(https://arxiv.org/abs/2307.03109)
 
+## Useful Resources
 - Practical guides for LLM [[Repo]](https://github.com/Mooler0410/LLMsPracticalGuide#practical-guide-for-data)
 - Introduction to LLM [[Repo]](https://github.com/datainsightat/introduction_llm?search=1)
 - Survey of LLM [[Repo]](https://github.com/RUCAIBox/LLMSurvey)
