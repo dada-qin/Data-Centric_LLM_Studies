@@ -82,7 +82,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 
 ## Supervised Fine-Tuning
 
-### Data Quantity
+### Scaling Laws
 
 - Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/abs/2303.14742) 
 - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
@@ -91,36 +91,35 @@ A list of papers about data quality in Large Language Models (LLMs)
 - How Abilities In Large Language Models Are Affected By Supervised Fine-Tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
 - Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.19651.pdf) 
 
-### Data Quality
+### Data Quality Evaluation
+- INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04757) [[Code]](https://github.com/declare-lab/instruct-eval)
+- 
+### Data Quality Improvement
 
-- #### Instruction Quality
-
+- #### Data Generation
+  - Self-Instruct: Aligning Language Models with Self-Generated Instructions (ACL, May 2023) [[Paper]](https://arxiv.org/abs/2212.10560) 
   - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
-  - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14233) [[Code]](https://github.com/thunlp/UltraChat)
-  - INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04757) [[Code]](https://github.com/declare-lab/instruct-eval)
-  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
-  - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.12711.pdf) 
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
 
-- #### Instruction Diversity
+- #### Data Selection
+  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
 
-  - Stanford Alpaca (Mar. 2023) [[Code]](https://github.com/tatsu-lab/stanford_alpaca) 
-  - Enhancing Chat Language Models by Scaling High-quality Instructional Conversation  (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14233) [[Code]](https://github.com/thunlp/UltraChat)
-  - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
-  - #InsTag: Instruction Tagging for Analyzing Supervised Fine-Tuning of Large Language Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.07074) [[Code]](https://github.com/OFA-Sys/InsTag)
-  - Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.09168) [[Code]](https://github.com/fanqiwan/Explore-Instruct)
-
-- #### Instruction Complexity
-
-  - WizardLM: Empowering Large Language Models to Follow Complex Instructions (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.12244) [[Code]](https://github.com/nlpxucan/WizardLM)
-  - WizardCoder: Empowering Code Large Language Models with Evol-Instruct (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.08568) [[Code]](https://github.com/nlpxucan/WizardLM)
-  - Orca: Progressive Learning from Complex Explanation Traces of GPT-4 (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.02707) [[Code]](https://github.com/Agora-X/Orca)
-  - A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.05696.pdf) 
-  - #InsTag: Instruction Tagging for Analyzing Supervised Fine-Tuning of Large Language Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.07074) [[Code]](https://github.com/OFA-Sys/InsTag)
-  - Can Large Language Models Understand Real-World Complex Instructions? (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.09150) [[Benchmark]](https://github.com/Abbey4799/CELLO)
+- #### Data Composition
+  - Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ Tasks (EMNLP 2022) [[Paper]](https://arxiv.org/abs/2204.07705) [[Dataset]](https://github.com/allenai/natural-instructions)
+  - Finetuned Language Models Are Zero-Shot Learners (ICLR 2022) [[Paper]](https://arxiv.org/abs/2109.01652) [[Dataset]](https://github.com/google-research/FLAN)
+  - Multitask Prompted Training Enables Zero-Shot Task Generalization (ICLR 2022) [[Paper]](https://arxiv.org/abs/2110.08207) [[Code]](https://github.com/bigscience-workshop/t-zero)
+  - Scaling Instruction-Finetuned Language Models (Arxiv, Oct. 2022) [[Paper]](https://arxiv.org/abs/2210.11416) [[Dataset]](https://github.com/google-research/FLAN)
+  - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization (Arxiv, Dec. 2022)  [[Paper]](https://arxiv.org/abs/2212.12017) [[Model]](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
+  - The Flan Collection: Designing Data and Methods for Effective Instruction Tuning (ICML, 2023) [[Paper]](https://arxiv.org/abs/2301.13688) [[Dataset]](https://github.com/google-research/FLAN)
+  - Exploring the Benefits of Training Expert Language Models over Instruction Tuning (ICML, 2023) [[Paper]](https://arxiv.org/abs/2302.03202) [[Code]](https://github.com/joeljang/ELM)
+  - Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.09246) 
+  - How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04751) [[Code]](https://github.com/allenai/open-instruct)
+  - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
+  
+- #### Curriculum Learning
 
 - #### Prompt Design
-
+- 
   - Reframing instructional prompts to gptk’s language (ACL Findings, 2022) [[Paper]](https://arxiv.org/abs/2109.07830v3) [[Code]](https://github.com/allenai/reframing)
   - Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts (NAACL, 2022) [[Paper]](https://arxiv.org/abs/2112.08348) [[Code]](https://github.com/alrope123/prompt-waywardness)
   - Demystifying Prompts in Language Models via Perplexity Estimation (Arxiv, Dec. 2022) [[Paper]](https://arxiv.org/abs/2212.04037) 
@@ -131,52 +130,14 @@ A list of papers about data quality in Large Language Models (LLMs)
   - Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13486.pdf) 
   - Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.19651.pdf) 
 
-### Task composition
 
-- Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ Tasks (EMNLP 2022) [[Paper]](https://arxiv.org/abs/2204.07705) [[Dataset]](https://github.com/allenai/natural-instructions)
-- Finetuned Language Models Are Zero-Shot Learners (ICLR 2022) [[Paper]](https://arxiv.org/abs/2109.01652) [[Dataset]](https://github.com/google-research/FLAN)
-- Multitask Prompted Training Enables Zero-Shot Task Generalization (ICLR 2022) [[Paper]](https://arxiv.org/abs/2110.08207) [[Code]](https://github.com/bigscience-workshop/t-zero)
-- Scaling Instruction-Finetuned Language Models (Arxiv, Oct. 2022) [[Paper]](https://arxiv.org/abs/2210.11416) [[Dataset]](https://github.com/google-research/FLAN)
-- OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization (Arxiv, Dec. 2022)  [[Paper]](https://arxiv.org/abs/2212.12017) [[Model]](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
-- The Flan Collection: Designing Data and Methods for Effective Instruction Tuning (ICML, 2023) [[Paper]](https://arxiv.org/abs/2301.13688) [[Dataset]](https://github.com/google-research/FLAN)
-- Exploring the Benefits of Training Expert Language Models over Instruction Tuning (ICML, 2023) [[Paper]](https://arxiv.org/abs/2302.03202) [[Code]](https://github.com/joeljang/ELM)
-- Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.09246) 
-- How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04751) [[Code]](https://github.com/allenai/open-instruct)
-- How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
-
-### Data-Efficient Learning
-
-- ##### Data Quantity
-
-  - Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.03692) 
-  - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
-
-- ##### Instruction Quality
-
-  - NLU on Data Diets: Dynamic Data Subset Selection for NLP Classification Tasks (SustaiNLP, 2023) [[Paper]](https://arxiv.org/pdf/2306.03208.pdf) 
-  - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
-  - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) 
-  - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/pdf/2309.11235.pdf) [[Code]](https://github.com/imoneoi/openchat)
-
-- ##### Instruction Diversity
-
-  - Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.08182) [[Code]](https://github.com/OFA-Sys/DiverseEvol)
-
-- ##### Task Composition
-
-  - Data-Efficient Finetuning Using Cross-Task Nearest Neighbors (ACL Findings, 2023) [[Paper]](https://arxiv.org/abs/2212.00196) [[Code]](https://github.com/allenai/data-efficient-finetuning)
-
-  - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14327) [[Code]](https://github.com/WadeYin9712/Dynosaur)
-
-  - MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.05653) [[Code]](https://github.com/TIGER-AI-Lab/MAmmoTH)
-
-- ##### Others
+### Data Management System
 
   - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
 
   - LoBaSS: Gauging Learnability in Supervised Fine-tuning Data (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13008.pdf) 
 
-## Useful Resources
+## Related Survey
 
 - Practical guides for LLM [[Repo]](https://github.com/Mooler0410/LLMsPracticalGuide#practical-guide-for-data)
 - Introduction to LLM [[Repo]](https://github.com/datainsightat/introduction_llm?search=1)
