@@ -6,17 +6,16 @@ A list of papers about data quality in Large Language Models (LLMs)
 - [Pretraining](#pretraining)
 
   - [Scaling Laws](#data-quantity-1)
-
-  - [Evaluation](#data-quality-1)
-  - [Improvement](#domain-composition)
-  - [System](#data-management-systems)
+  - [Data Quality Evaluation](#data-quality-1)
+  - [Data Quality Improvement](#domain-composition)
+  - [Data Management System](#data-management-systems)
 
 - [Supervised Fine-Tuning](#supervised-fine-tuning)
 
   - [Scaling Laws](#data-quantity)
-  - [Evaluation](#data-quality)
-  - [Improvement](#task-composition)
-  - [System](#data-efficient-learning)
+  - [Data Quality Evaluation](#data-quality)
+  - [Data Quality Improvement](#task-composition)
+  - [Data Management System](#data-efficient-learning)
 
 - [Useful Resources](#useful-resources)
 
