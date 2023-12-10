@@ -102,7 +102,7 @@ A list of papers about data quality in Large Language Models (LLMs)
 - #### Curriculum Learning
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
   
-- #### Prompt Design
+- #### Prompt Engineering
   - Reframing instructional prompts to gptk’s language (ACL Findings, 2022) [[Paper]](https://arxiv.org/abs/2109.07830v3) [[Code]](https://github.com/allenai/reframing)
   - Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts (NAACL, 2022) [[Paper]](https://arxiv.org/abs/2112.08348) [[Code]](https://github.com/alrope123/prompt-waywardness)
   - Demystifying Prompts in Language Models via Perplexity Estimation (Arxiv, Dec. 2022) [[Paper]](https://arxiv.org/abs/2212.04037) 
