@@ -58,12 +58,12 @@ A list of papers about data quality in Large Language Models (LLMs)
 - #### Data Composition
 
   - Lamda: Language models for dialog applications (Arxiv, Jan. 2022) [[Paper]](https://arxiv.org/abs/2201.08239) [[Code]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
-- Data Selection for Language Models via Importance Resampling (Arxiv, Feb. 2023) [[Paper]](https://arxiv.org/pdf/2302.03169.pdf) [[Code]](https://github.com/p-lambda/dsir)
-- CodeGen2: Lessons for Training LLMs on Programming and Natural Languages (ICLR 2023) [[Paper]](https://arxiv.org/abs/2305.02309) [[Model]](https://github.com/salesforce/CodeGen2)
-- DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.10429) [[Code]](https://github.com/sangmichaelxie/doremi)
-- A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13169)
-- SlimPajama-DC: Understanding Data Combinations for LLM Training (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.10818) [[Model]](https://huggingface.co/MBZUAI-LLM) [[Dataset]](https://huggingface.co/datasets/cerebras/SlimPajama-627B)
-- DoGE: Domain Reweighting with Generalization Estimation (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.15393) 
+  - Data Selection for Language Models via Importance Resampling (Arxiv, Feb. 2023) [[Paper]](https://arxiv.org/pdf/2302.03169.pdf) [[Code]](https://github.com/p-lambda/dsir)
+  - CodeGen2: Lessons for Training LLMs on Programming and Natural Languages (ICLR 2023) [[Paper]](https://arxiv.org/abs/2305.02309) [[Model]](https://github.com/salesforce/CodeGen2)
+  - DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.10429) [[Code]](https://github.com/sangmichaelxie/doremi)
+  - A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13169)
+  - SlimPajama-DC: Understanding Data Combinations for LLM Training (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.10818) [[Model]](https://huggingface.co/MBZUAI-LLM) [[Dataset]](https://huggingface.co/datasets/cerebras/SlimPajama-627B)
+  - DoGE: Domain Reweighting with Generalization Estimation (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.15393) 
 
 - #### Curriculum Learning
 
