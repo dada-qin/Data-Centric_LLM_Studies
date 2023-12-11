@@ -1,5 +1,5 @@
-# DCML in LLMs
-A list of papers about DCML in Large Language Models (LLMs)
+# Data-Centric LLM Studies
+A list of papers focusing on data-centric studies in Large Language Models (LLMs).
 
 ## Contents
 
@@ -122,8 +122,9 @@ A list of papers about DCML in Large Language Models (LLMs)
 
 ## Survey
 - Data Management For Large Language Models: A Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.01700)
+- A Survey of Large Language Models (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.01700)
+- Efficient Large Language Models: A Survey (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2303.18223)
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
-- Efficient Large Language Models: A Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.03863.pdf)
 - A Survey on Evaluation of Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2307.03109)
 
 ## Useful Resources
