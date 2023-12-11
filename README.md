@@ -65,7 +65,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - DoGE: Domain Reweighting with Generalization Estimation (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.15393)
   - Self-Influence Guided Data Reweighting for Language Model Pre-training (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/pdf/2311.00913.pdf)
 
-- #### Curriculum Learning
+- #### Data Curriculum
 
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
 
@@ -103,7 +103,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
 - #### Data Composition
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
   
-- #### Curriculum Learning
+- #### Data Curriculum
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
   
 - #### Prompt Engineering
