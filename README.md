@@ -8,6 +8,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - [Scaling Laws](#scaling-laws)
   - [Data Quality Evaluation](#data-quality-evaluation)
   - [Data Quality Improvement](#data-quality-improvement)
+  - [Data Detection](#data-detection)
   - [Data Management System](#data-management-system)
 
 - [Supervised Fine-Tuning](#supervised-fine-tuning)
@@ -15,6 +16,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - [Scaling Laws](#scaling-laws-1)
   - [Data Quality Evaluation](#data-quality-evaluation-1)
   - [Data Quality Improvement](#data-quality-improvement-1)
+  - [Data Detection](#data-detection-1)
   - [Data Management System](#data-management-system-1)
 
 - [Survey](#survey)
@@ -67,6 +69,8 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
 
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
 
+### Data Detection
+
 ### Data Management System
 
 - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
@@ -113,6 +117,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13486.pdf) 
   - Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.19651.pdf) 
 
+### Data Detection
 
 ### Data Management System
 
