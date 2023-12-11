@@ -1,5 +1,5 @@
 # DCML in LLMs
-A list of papers about data quality in Large Language Models (LLMs)
+A list of papers about DCML in Large Language Models (LLMs)
 
 ## Contents
 
