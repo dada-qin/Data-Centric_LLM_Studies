@@ -99,7 +99,6 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv,Aug. 2023)[[paper]](https://arxiv.org/abs/2308.12711)
 
 - #### Data Selection
-  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf)
   - MoDS: Model-oriented Data Selection for Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](http://arxiv.org/abs/2311.15653) [[Code]](https://github.com/CASIA-LM/MoDS)
   - From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning (Arxiv, Sep. 2023) [[Paper]](http://arxiv.org/abs/2308.12032) [[Code]](https://github.com/MingLiiii/Cherry_LLM)
   - Instruction Mining: When Data Mining Meets Large Language Model Finetuning (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.06290)
