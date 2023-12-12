@@ -98,7 +98,11 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
 
 - #### Data Selection
-  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
+  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf)
+  - MoDS: Model-oriented Data Selection for Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](http://arxiv.org/abs/2311.15653) [[Code]](https://github.com/CASIA-LM/MoDS)
+  - From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning (Arxiv, Sep. 2023) [[Paper]](http://arxiv.org/abs/2308.12032) [[Code]](https://github.com/MingLiiii/Cherry_LLM)
+  - Instruction Mining: When Data Mining Meets Large Language Model Finetuning (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.06290)
+  - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) [[Code]](https://lichang-chen.github.io/AlpaGasus/)
 
 - #### Data Composition
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
