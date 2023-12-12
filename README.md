@@ -95,7 +95,8 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
 - #### Data Generation
   - Self-Instruct: Aligning Language Models with Self-Generated Instructions (ACL, May 2023) [[Paper]](https://arxiv.org/abs/2212.10560) 
   - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
-  - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
+  - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259)
+  - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv,Aug. 2023)[[paper]](https://arxiv.org/abs/2308.12711)
 
 - #### Data Selection
   - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf)
