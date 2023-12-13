@@ -96,8 +96,8 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - Self-Instruct: Aligning Language Models with Self-Generated Instructions (ACL, May 2023) [[Paper]](https://arxiv.org/abs/2212.10560) 
   - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259)
-  - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv,Aug. 2023)[[paper]](https://arxiv.org/abs/2308.12711)
-  - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation\[v2\] (Arxiv, Oct. 2023)[[paper]](https://arxiv.org/abs/2305.14327)[[code]](https://github.com/WadeYin9712/Dynosaur)
+  - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv,Aug. 2023)[[Paper]](https://arxiv.org/abs/2308.12711)
+  - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation\[v2\] (Arxiv, Oct. 2023)[[Paper]](https://arxiv.org/abs/2305.14327)[[Code]](https://github.com/WadeYin9712/Dynosaur)
 
 - #### Data Selection
   - MoDS: Model-oriented Data Selection for Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](http://arxiv.org/abs/2311.15653) [[Code]](https://github.com/CASIA-LM/MoDS)
