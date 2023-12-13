@@ -46,6 +46,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - Noise-Robust De-Duplication at Scale (ICLR 2022) [[Paper]](https://scholar.harvard.edu/dell/publications/noise-robust-de-duplication-scale) 
   - SemDeDup: Data-efficient learning at web-scale through semantic deduplication (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/pdf/2303.09540.pdf) [[Code]](https://github.com/facebookresearch/SemDeDup)
   - The MiniPile Challenge for Data-Efficient Language Models (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.08442) [[Dataset]](https://huggingface.co/datasets/JeanKaddour/minipile)
+  - D4: Improving LLM Pretraining via Document De-Duplication and Diversification(Arxiv, Aug. 2023)[[paper]](https://arxiv.org/abs/2308.12284)
 
 - #### Data Filter
   - An Empirical Exploration in Quality Filtering of Text Data (Arxiv, Sep. 2021) [[Paper]](https://arxiv.org/abs/2109.00698) 
@@ -70,6 +71,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
 
 ### Data Detection
+- Detecting Pre-training Data from Large Language Models (Arxiv, Nov. 2023)[[paper]](https://arxiv.org/pdf/2310.16789.pdf)
 
 ### Data Management System
 
