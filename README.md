@@ -116,6 +116,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
 - #### Prompt Engineering
   - Reframing instructional prompts to gptk’s language (ACL Findings, 2022) [[Paper]](https://arxiv.org/abs/2109.07830v3) [[Code]](https://github.com/allenai/reframing)
   - Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts (NAACL, 2022) [[Paper]](https://arxiv.org/abs/2112.08348) [[Code]](https://github.com/alrope123/prompt-waywardness)
+  - Training language models to follow instructions with human feedback (NeurIPS, 2022) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
   - Demystifying Prompts in Language Models via Perplexity Estimation (Arxiv, Dec. 2022) [[Paper]](https://arxiv.org/abs/2212.04037) 
   - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning (ACL, 2023) [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/rethinking-instruction-effectiveness)
   - Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning (ACL, 2023) [[Paper]](https://arxiv.org/abs/2305.11383) 
