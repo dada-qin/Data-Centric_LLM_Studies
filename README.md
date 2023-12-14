@@ -108,7 +108,8 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) [[Code]](https://lichang-chen.github.io/AlpaGasus/)
 
 - #### Data Composition
-  - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
+  - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf)
+  - How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (NeurIPS 2023) [[Paper]](https://arxiv.org/abs/2306.04751)
   
 - #### Data Curriculum
   - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/pdf/2312.00678.pdf)
