@@ -47,6 +47,7 @@ A list of papers focusing on data-centric studies in Large Language Models (LLMs
   - SemDeDup: Data-efficient learning at web-scale through semantic deduplication (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/pdf/2303.09540.pdf) [[Code]](https://github.com/facebookresearch/SemDeDup)
   - The MiniPile Challenge for Data-Efficient Language Models (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.08442) [[Dataset]](https://huggingface.co/datasets/JeanKaddour/minipile)
   - D4: Improving LLM Pretraining via Document De-Duplication and Diversification(Arxiv, Aug. 2023)[[paper]](https://arxiv.org/abs/2308.12284)
+  - Large Language Model Unlearning (Arxiv, October 2023) [[Paper]](https://arxiv.org/abs/2310.10683) [[Code]](https://github.com/kevinyaobytedance/llm-unlearn)
 
 - #### Data Filter
   - An Empirical Exploration in Quality Filtering of Text Data (Arxiv, Sep. 2021) [[Paper]](https://arxiv.org/abs/2109.00698) 
